@@ -422,7 +422,7 @@ export default function Page() {
                   : "border-blue-400/30 bg-blue-500/10 text-blue-200"
               }`}
             >
-              1 year experience at Dev Solution
+              1 year experience at Dew Solution
             </p>
 
             <h1 className="max-w-4xl text-5xl font-black leading-[1.02] tracking-tight md:text-7xl">
@@ -435,7 +435,7 @@ export default function Page() {
               }`}
             >
               I am Saleh Mohiuddin, a web developer with 1 year of hands-on
-              experience at Dev Solution. I build responsive websites,
+              experience at Dew Solution. I build responsive websites,
               dashboards, ERP modules, and business software with React,
               Next.js, Node.js, PHP, and MySQL.
             </p>
@@ -463,7 +463,7 @@ export default function Page() {
 
             <div className="mt-10 grid max-w-2xl grid-cols-3 gap-3">
               {[
-                ["1 year", "Dev Solution"],
+                ["1 year", "Dew Solution"],
                 ["10+", "Technologies"],
                 ["5", "Projects"],
               ].map(([value, label]) => (
@@ -538,7 +538,7 @@ export default function Page() {
             <Panel isLight={isLight}>
               <p className={isLight ? "leading-8 text-[#5f574c]" : "leading-8 text-white/68"}>
                 I am a full stack web developer with 1 year of experience at
-                Dev Solution. I enjoy turning business needs into simple,
+                Dew Solution. I enjoy turning business needs into simple,
                 attractive, and maintainable web applications.
               </p>
               <p className={isLight ? "mt-4 leading-8 text-[#5f574c]" : "mt-4 leading-8 text-white/68"}>
@@ -549,7 +549,7 @@ export default function Page() {
             </Panel>
             <Panel isLight={isLight}>
               <div className="space-y-4">
-                <MiniStat label="Experience" value="1 year at Dev Solution" />
+                <MiniStat label="Experience" value="1 year at Dew Solution" />
                 <MiniStat label="Location" value="Hyderabad, India" />
                 <MiniStat label="Availability" value="Full time and freelance" />
               </div>
@@ -663,7 +663,7 @@ export default function Page() {
                 <div className="flex flex-col gap-5 md:flex-row md:items-start md:justify-between">
                   <div>
                     <p className="text-sm font-black uppercase tracking-[0.24em] text-blue-500">
-                      Dev Solution
+                      Dew Solution
                     </p>
                     <h3 className="mt-2 text-4xl font-black tracking-tight">
                       Web Developer
